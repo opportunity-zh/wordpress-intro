@@ -11,11 +11,11 @@ WordPress is the most used CMS on the internet. But this does not mean it's the 
 ## Use with Docker
 To use WordPress with Docker. You need to have installed **Docker** and **Compose**
 
-1. Check if **docker compose** is installed
+1. Check if **docker compose** is installed. Copy this in your terminal.
 ```bash
 docker compose version
 ```
-2. Create Directory calles wordpress and navigate in it
+2. Create Directory called wordpress and navigate into it
 ```bash
 mkdir wordpress
 cd wordpress
