@@ -1,13 +1,4 @@
- to set up a new WordPress project:
-# Open Terminal in projects-Verzeichnis
-# mkdir myWebsite
-# copy this docker-compose.yml into that folder
-# navigate into that folder with: 
-# cd myWebsite
-# docker compose up -d
-# you can use docker ps to see which containers are running with this compose file
-# later use docker compose down to shutdown the applications 
-#
+
 services:
   mysql_db:
     image: mysql:latest # image version of mysql
