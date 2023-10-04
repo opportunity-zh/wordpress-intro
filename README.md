@@ -22,3 +22,17 @@ cd wordpress
 ```bash
 docker compose up -d
 ```
+5. Check if docker processes are running
+```bash
+docker ps
+```
+6. Open Browser and type the following in the url bar
+```bash
+localhost:8080
+```
+7. Go through the WordPress Installation Process (Remember your Password)
+8. Work on your project
+9. Shutdown docker Containers
+```bash
+docker compose down
+```
