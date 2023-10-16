@@ -3,9 +3,9 @@ WordPress is the most used CMS on the internet. But this does not mean it's the 
 
 
 ## Inhalt
-[Use with Docker](#use-with-docker)
-[Settings](#settings)
-[Install your first Plugin](#install-your-first-plugin)
+[Use with Docker](#use-with-docker)  
+[Settings](#settings)  
+[Install your first Plugin](#install-your-first-plugin)  
 
 
 
