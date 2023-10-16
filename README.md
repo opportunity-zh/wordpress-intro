@@ -4,6 +4,8 @@ WordPress is the most used CMS on the internet. But this does not mean it's the 
 
 ## Inhalt
 [Use with Docker](#use-with-docker)
+[Settings](#settings)
+[Install your first Plugin](#install-your-first-plugin)
 
 
 
@@ -40,3 +42,30 @@ localhost:8080
 ```bash
 docker compose down
 ```
+
+## Basic Settings
+
+
+
+
+
+## Install your first Plugin
+WordPress offers a simple way to extend its functionality. It allows you to install plugins.
+
+1. Type the following in your URL Bar
+```bash
+localhost:8080/wp-admin
+```
+2. Log in if you're not already did
+3. Open the **Plugins** Tab
+4. On the upper left click on **"Installieren"**
+5. Type in the Searchbar on the right side
+```bash
+BetterDocs
+```
+6. Click on **"Jetzt installieren"**
+7. If it finished the installation, click on **"Aktivieren"**
+
+
+
+
