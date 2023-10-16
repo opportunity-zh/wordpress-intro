@@ -5,6 +5,8 @@ WordPress is the most used CMS on the internet. But this does not mean it's the 
 ## Inhalt
 [Use with Docker](#use-with-docker)  
 [Settings](#settings)  
+    [Allgemein](#allgemein)
+    [Permalinks](#permalinks)
 [Install your first Plugin](#install-your-first-plugin)  
 
 
@@ -43,10 +45,13 @@ localhost:8080
 docker compose down
 ```
 
-## Basic Settings
+## Settings
 
+### Allgemein
+Here you can set up basic stuff for your WordPress Site. Change the **title and subtitle** of your Website.
 
-
+### Permalinks
+Change the **Permalinkstruktur** to **Beitragsnamen**
 
 
 ## Install your first Plugin
