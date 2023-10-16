@@ -11,7 +11,6 @@ WordPress is the most used CMS on the internet. But this does not mean it's the 
 
 
 
-
 ## Use with Docker
 To use WordPress with Docker, you need to have **Docker** and **Compose** installed.
 
@@ -55,7 +54,7 @@ Change the **Permalinkstruktur** to **Beitragsnamen**
 
 
 ## Install your first Plugin
-WordPress offers a simple way to extend its functionality. It allows you to install plugins.
+WordPress offers a simple way to extend its functionality by allowing you to install plugins.
 
 1. Type the following in your URL Bar
 ```bash
@@ -64,7 +63,7 @@ localhost:8080/wp-admin
 2. Log in if you're not already did
 3. Open the **Plugins** Tab
 4. On the upper left click on **"Installieren"**
-5. Type in the Searchbar on the right side
+5. Type the following in the searchbar on the right side
 ```bash
 BetterDocs
 ```
