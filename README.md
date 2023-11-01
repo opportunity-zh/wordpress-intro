@@ -70,6 +70,14 @@ BetterDocs
 6. Click on **"Jetzt installieren"**
 7. If it finished the installation, click on **"Aktivieren"**
 
+### Install your first Theme
+In WordPress you can use Themes to have a ... structure of your website and already a predefined design.
+We will use a theme that is very flexible and one of the most used themes. It's called **Astra**. You will
+find a paid and a free version of it.
+
+1. In your Backend go to **Design > Themes**
+2. Search for **Astra** install it
+3. Activate it
 
 
 
