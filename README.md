@@ -7,7 +7,8 @@ WordPress is the most used CMS on the internet. But this does not mean it's the 
 2. [Settings](#settings)  
     2.1 [Allgemein](#allgemein)  
     2.2 [Permalinks](#permalinks)  
-3. [Install your first Plugin](#install-your-first-plugin)  
+3. [Install your first Plugin](#install-your-first-plugin)
+4. [Install your first Theme](#install-your-first-theme)
 
 
 
