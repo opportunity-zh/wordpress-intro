@@ -55,6 +55,7 @@ Change the **Permalinkstruktur** to **Beitragsnamen**
 
 
 ## Install your first Plugin
+### Better Docs
 WordPress offers a simple way to extend its functionality by allowing you to install plugins.
 
 1. Type the following in your URL Bar
@@ -70,6 +71,9 @@ BetterDocs
 ```
 6. Click on **"Jetzt installieren"**
 7. If it finished the installation, click on **"Aktivieren"**
+
+### Elementor
+Elementor is one of the most used page builders for WordPress. It helps you to generate Webpages without any knowhow. By drag and drop you will be able to create your first websites.
 
 ## Install your first Theme
 In WordPress you can use Themes to have a ... structure of your website and already a predefined design.
