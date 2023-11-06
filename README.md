@@ -19,7 +19,7 @@ To use WordPress with Docker, you need to have **Docker** and **Compose** instal
 ```bash
 docker compose version
 ```
-2. Create a directory called wordpress and navigate into it
+2. Create a directory (with your terminal) called **wordpress** and navigate into it
 ```bash
 mkdir wordpress
 cd wordpress
