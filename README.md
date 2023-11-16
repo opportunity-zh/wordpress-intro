@@ -54,29 +54,8 @@ Here you can set up basic stuff for your WordPress Site. Change the **title and 
 Change the **Permalinkstruktur** to **Beitragsnamen**
 
 
-## Install your first Plugin
-### Better Docs
-WordPress offers a simple way to extend its functionality by allowing you to install plugins.
-
-1. Type the following in your URL Bar
-```bash
-localhost:8080/wp-admin
-```
-2. Log in if you're not already did
-3. Open the **Plugins** Tab
-4. On the upper left click on **"Installieren"**
-5. Type the following in the searchbar on the right side
-```bash
-BetterDocs
-```
-6. Click on **"Jetzt installieren"**
-7. If it finished the installation, click on **"Aktivieren"**
-
-### Elementor
-Elementor is one of the most used page builders for WordPress. It helps you to generate Webpages without any knowhow. By drag and drop you will be able to create your first websites.
-
 ## Install your first Theme
-In WordPress you can use Themes to have a ... structure of your website and already a predefined design.
+In WordPress you can use Themes to have a predefined structure of your website and already a predefined design.
 We will use a theme that is very flexible and one of the most used themes. It's called **Astra**. You will
 find a paid and a free version of it.
 
