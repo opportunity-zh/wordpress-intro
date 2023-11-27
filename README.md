@@ -45,23 +45,7 @@ localhost:8080
 docker compose down
 ```
 
-## Settings
 
-### Allgemein
-Here you can set up basic stuff for your WordPress Site. Change the **title and subtitle** of your Website.
-
-### Permalinks
-Change the **Permalinkstruktur** to **Beitragsnamen**
-
-
-## Install your first Theme
-In WordPress you can use Themes to have a predefined structure of your website and already a predefined design.
-We will use a theme that is very flexible and one of the most used themes. It's called **Astra**. You will
-find a paid and a free version of it.
-
-1. In your Backend go to **Design > Themes**
-2. Search for **Astra** install it
-3. Activate it
 
 
 
