@@ -7,7 +7,7 @@ services:
       - ./data_db:/var/lib/mysql # Where the data will be stored
     environment:
       MYSQL_ROOT_PASSWORD: admin_digital2023 # root password
-      MYSQL_DATABASE: proj_wp_shop_db # the database name (will be used to receive the wordpress tables, see below)
+      MYSQL_DATABASE: wordpress_intro # the database name (will be used to receive the wordpress tables, see below)
       MYSQL_USER: opportunity # the username for mysql as defined by you (also used in phpMyAdmin)
       MYSQL_PASSWORD: Opport2023 # the password for mysql db as defined by you (also used in phpMyAdmin)
 
@@ -33,7 +33,7 @@ services:
       WORDPRESS_DB_HOST: mysql_db:3306
       WORDPRESS_DB_USER: opportunity # needs to be the same like service.mysql_db.environment.MYSQL_USER
       WORDPRESS_DB_PASSWORD: Opport2023 # needs to be the same like service.mysql_db.environment.MYSQL_PASSWORD
-      WORDPRESS_DB_NAME: proj_wp_shop_db # needs to be the same name as in service.mysql_db.environment.MYSQL_DATABASE
+      WORDPRESS_DB_NAME: wordpress_intro # needs to be the same name as in service.mysql_db.environment.MYSQL_DATABASE
       WORDPRESS_TABLE_PREFIX: pwr_db_ # to avoid the have the default prefix for table names 'wp_', which would be too common
     working_dir: /var/www/html # virtual path to the container where wordpress is beeing developped
     volumes:
